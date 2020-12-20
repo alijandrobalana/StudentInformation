@@ -1,0 +1,93 @@
+.border{
+	margin: 20px auto;
+	width: 30%;
+	
+}
+h3{
+	text-align: center;
+}
+body{
+	font-size: 13px;
+}
+table{
+	width: 100%;
+	margin: 20px auto;
+	border-collapse: collapse;
+	text-align: left;
+}
+tr{
+	border-bottom: 1px solid #cbcbcb;
+
+}
+th, td{
+	border: none;
+	height: 30px;
+	padding: 2px;
+	
+}
+tr:hover{
+	background: #F5F5F5;
+	
+}
+form{
+	width: 50%;
+	margin: 50px auto;
+	text-align: left;
+	padding: 20px;
+	border: 1px solid #bbbbbb;
+	border-radius: 10px;
+	
+}
+.btnSubmit{
+	margin-left: 100px;
+	background-color: #000000;
+	border: none;
+	color: white;
+	padding: 12px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+}
+.btnView{
+	margin-top: -30px;
+	margin-left: 63%;
+	background-color: #008CBA;
+	border: none;
+	color: white;
+	padding: 12px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+}
+.btnBack{
+	background-color: #000000;
+	border: none;
+	color: white;
+	padding: 12px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+}
+.btnUpdate{
+	background-color: #008CBA;
+	border: none;
+	color: white;
+	padding: 12px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+}
+.btnDelete{
+	background-color: #f44336;
+	border: none;
+	color: white;
+	padding: 12px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+}
